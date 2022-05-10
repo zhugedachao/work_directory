@@ -69,3 +69,6 @@ def Jenkins_func():
         
 
 Jenkins_func()
+
+def func():
+   pass
